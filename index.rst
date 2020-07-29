@@ -7,12 +7,13 @@ Welcome to Documentacao_FAQ_MDS's documentation!
 ================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: FAQs:
 
    _topicos/primeiroFAQ
    _topicos/segundo_faq
    _topicos/FAQ2
+   _topicos/FAQ18 V6
 
 
 .. toctree::

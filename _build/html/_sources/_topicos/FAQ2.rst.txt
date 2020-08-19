@@ -10,55 +10,10 @@ Assunto: **02. SAA_MANUAL**
 **Tópicos:**
 ------------
 
-`01. Como o município deve proceder para substituir o Administrador
-Adjunto? <#_Toc511655698>`__
-
-`02. Como cadastrar um usuário no SAA? <#_Toc484011924>`__
-
-`03. Como o Administrador Titular irá acessar o SAA? <#_Toc511655700>`__
-
-`04. Como o Administrador Adjunto irá acessar o SAA? <#_Toc484011926>`__
-
-`05. Como os técnicos irão acessar o SAA? <#_Toc511655702>`__
-
-`06. Quais são as exigências do SAA para o cadastro do Administrador
-Adjunto? <#_Toc484011929>`__
-
-`07. Quais são as exigências do SAA para o cadastro de Técnicos
-municipais? <#_Toc484011930>`__
-
-`08. O que fazer se não recebeu a senha da Rede
-SUAS? <#_Toc484011931>`__
-
-`09. Como proceder quando o sistema apresenta a mensagem que os dados
-não conferem no momento de fazer a validação da
-senha? <#_Toc484011932>`__
-
-`10. Como proceder quando o sistema informa que uma pessoa está
-vinculada em mais de um órgão? <#_Toc484011933>`__
-
-`11. Como proceder quando, ao acessar o sistema, é informado que não
-existem sistemas cadastrados para aquele perfil? <#_Toc484011934>`__
-
-`12. O Secretário e o Presidente do Conselho podem acessar o sistema do
-BPC na Escola? <#_Toc484011935>`__
-
-`13. O que pode impedir o aceite do termo de
-responsabilidade? <#_Toc484011937>`__
-
-`14. Como o Administrador (Titular/Adjunto) deve proceder para
-vincular/delegar perfis no SAA? <#_Toc484011941>`__
-
-`15. Como proceder quando o município cadastra o Administrador (Titular
-Adjunto) no SAA como usuários/usuário? <#_Toc509906935>`__
-
-`16. Como proceder quando o Presidente do Conselho é indicado como
-Administrador Adjunto do Órgão Gestor? <#_Toc509995917>`__
-
 Palavras-chave: **SAA MANUAL ADMINISTRADOR TITULAR ACESSAR SAA**
 
 1. Como o Administrador Titular irá acessar o SAA?
----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Após ter sido cadastrado como Administrador Titular (Órgão
   Gestor/Conselho) ou indicado pelo Administrador Adjunto, o
@@ -127,8 +82,8 @@ Palavras-chave: **SAA MANUAL ADMINISTRADOR TITULAR ACESSAR SAA**
 
 Palavras-chave: **SAA MANUAL SUBSTITUIR ADMINISTRADOR ADJUNTO**
 
-2. Como o município deve proceder para substituir o Administrador
-   Adjunto?
+2. Como o município deve proceder para substituir o Administrador Adjunto?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |        **1.** O Administrador titular deverá acessar o *link* do
   SAA-WEB com seu *login* e senha. Clicar no 4º item do *menu*
@@ -145,6 +100,7 @@ Palavras-chave: **SAA MANUAL SUBSTITUIR ADMINISTRADOR ADJUNTO**
 Palavras-chave: **SAA MANUAL CADASTRAR USUARIO SISTEMA**
 
 3. Como cadastrar um usuário no SAA?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |        1. O Administrador Titular ou Adjunto, deverá clicar no sistema
   SAA (Sistema de Autenticação e Autorização);
@@ -177,6 +133,7 @@ Palavras-chave: **SAA MANUAL CADASTRAR USUARIO SISTEMA**
 Palavras-chave: **SAA MANUAL ADMINISTRADOR ADJUNTO ACESSAR SAA**
 
 4. Como o Administrador Adjunto irá acessar o SAA?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Após ter sido indicado pelo Administrador Titular, o Administrador
   Adjunto receberá um *e-mail* da
@@ -218,6 +175,7 @@ Palavras-chave: **SAA MANUAL ADMINISTRADOR ADJUNTO ACESSAR SAA**
 Palavras-chave: **SAA MANUAL TECNICOS DEMAIS USUARIOS ACESSAR SAA**
 
 5. Como os técnicos irão acessar o SAA?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | O Técnico deverá ser cadastrado no SAA pelo Administrador
   (Titular/Adjunto) de seu município. Após a conclusão deste cadastro,
@@ -262,8 +220,8 @@ Palavras-chave: **SAA MANUAL TECNICOS DEMAIS USUARIOS ACESSAR SAA**
 Palavras-chave: **SAA MANUAL EXIGENCIAS SAA CADASTRO ADMINISTRADOR
 ADJUNTO**
 
-6. Quais são as exigências do SAA para o cadastro do Administrador
-   Adjunto?
+6. Quais são as exigências do SAA para o cadastro do Administrador Adjunto?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Para realizar o cadastro do Administrador Adjunto, no SAA, é
   necessário que a pessoa esteja cadastrada no *menu* “Pessoa Física”
@@ -274,8 +232,8 @@ ADJUNTO**
 
 Palavras-chave: **SAA MANUAL EXIGENCIAS SAA CADASTRO TECNICOS USUARIO**
 
-7. Quais são as exigências do SAA para o cadastro de Técnicos
-   municipais?
+7. Quais são as exigências do SAA para o cadastro de Técnicos municipais?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Para realizar o cadastro de um Técnico municipal, no SAA, é necessário
   que a pessoa esteja cadastrada no *menu* “Pessoa Física” do CADSUAS.
@@ -285,6 +243,7 @@ Palavras-chave: **SAA MANUAL EXIGENCIAS SAA CADASTRO TECNICOS USUARIO**
 Palavras-chave: **SAA MANUAL RECEBER SENHA REDE SUAS**
 
 8. O que fazer se não recebeu a senha da Rede SUAS?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Caso não encontre o *e-mail* da Rede SUAS na caixa de entrada é
   necessário verificar na pasta de *spam*/lixo eletrônico. Alguns
@@ -312,8 +271,8 @@ Palavras-chave: **SAA MANUAL RECEBER SENHA REDE SUAS**
 
 Palavras-chave: **SAA MANUAL PROCEDER MENSAGEM DADOS NAO CONFEREM**
 
-9. Como proceder quando o sistema apresenta a mensagem que os dados não
-   conferem no momento de fazer a validação da senha?
+9. Como proceder quando o sistema apresenta a mensagem que os dados não conferem no momento de fazer a validação da senha?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Neste caso, é necessário confirmar se os dados que estão sendo
   preenchidos são iguais aos que constam no item “Pessoa Física” do
@@ -357,8 +316,8 @@ Palavras-chave: **SAA MANUAL PROCEDER MENSAGEM DADOS NAO CONFEREM**
 
 Palavras-chave: **SAA MANUAL PESSOA VINCULADA EM MAIS DE UM ORGAO**
 
-10. Como proceder quando o sistema informa que uma pessoa está vinculada
-    em mais de um órgão?
+10. Como proceder quando o sistema informa que uma pessoa está vinculada em mais de um órgão?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Neste caso, é necessário verificar no CADSUAS se o cadastro aparece
   mais de uma vez na aba recursos humanos do órgão em que faz parte, ou
@@ -370,41 +329,43 @@ Palavras-chave: **SAA MANUAL PESSOA VINCULADA EM MAIS DE UM ORGAO**
 Palavras-chave: **SAA MANUAL SISTEMAS CADASTRADOS NAO EXISTEM SISTEMAS
 CADASTRADOS PARA AQUELE PERFIL**
 
-11. Como proceder quando, ao acessar o sistema, é informado que não
-    existem sistemas cadastrados para aquele perfil?
+11. Como proceder quando, ao acessar o sistema, é informado que não existem sistemas cadastrados para aquele perfil?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| **
-  PROCEDIMENTO OPERADOR: verificar se o demandante é um administrador
+| **PROCEDIMENTO OPERADOR: verificar se o demandante é um administrador
   (Titular/Adjunto) (ou se ocupa um cargo, no CADSUAS, que pode assumir
   essa função) ou se é apenas um usuário e utilizar uma das respostas
-  abaixo:
-  a) O demandante é um Técnico:
-  **\ Neste caso, é necessário entrar em contato com o(a)
+  abaixo:**
+
+**a) O demandante é um Técnico:**
+  Neste caso, é necessário entrar em contato com o(a)
   Administrador(a) Titular ou o Administrador(a) Adjunto(a) do órgão
   governamental do qual está vinculado (Órgão Gestor ou Conselho), para
   que seja verificado se foi realizado todo o processo de cadastramento
   no SAA, no momento da criação do usuário.
-| Para um sistema ficar disponível, é necessário vincular o respectivo
+  Para um sistema ficar disponível, é necessário vincular o respectivo
   perfil ao usuário. Para vincular um perfil ao usuário, deve-se clicar
   no botão "vincular/delegar perfil", que aparece no final da página
   “DADOS DO USUÁRIO” e, na página seguinte, selecionar o sistema no
   *combobox* “Sistema”, clicar no perfil que se deseja delegar e clicar
   no ícone “>” (seta para direita) e salvar o registro.
-| Vale destacar que o Ministério da Cidadania gerencia apenas o acesso
+  Vale destacar que o Ministério da Cidadania gerencia apenas o acesso
   de Administradores (Titular/Adjunto). Os técnicos devem contatar seu
   respectivo Administrador (Titular/Adjunto), pois ele é o responsável
   pelo credenciamento de técnicos no sistema
-| **b) O demandante é um administrador (Titular/Adjunto) (ou ocupa um
-  cargo, no CADSUAS, que pode assumir essa função):
-  **\ Utilizar os procedimentos previstos no tópico “\ **01. Como
+
+**b) O demandante é um administrador (Titular/Adjunto) (ou ocupa um cargo, no CADSUAS, que pode assumir essa função):**
+  Utilizar os procedimentos previstos no tópico "**01. Como
   corrigir o perfil de acesso dos administradores municipais
-  (titular/adjunto)?**\ ” da FAQ “\ **SAA_PROCEDIMENTO_OPERADOR**\ ”.
+  (titular/adjunto)?**" 
+  da FAQ 
+  "**SAA_PROCEDIMENTO_OPERADOR**".
 
 Palavras-chave: **SAA MANUAL SECRETARIO PRESIDENTE CONSELHEIRO ACESSO
 BPC ESCOLA**
 
-12. O Secretário e o Presidente do Conselho podem acessar o sistema do
-    BPC na Escola?
+12. O Secretário e o Presidente do Conselho podem acessar o sistema do BPC na Escola?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 O acesso ao sistema do BPC na Escola é permitido apenas aos
 Administradores (Titular/Adjunto) e aos usuários do Órgão Gestor. Desta
@@ -414,6 +375,7 @@ permissão de acesso a este sistema.
 Palavras-chave: **SAA MANUAL IMPEDIR ACEITE TERMO RESPONSABILIDADE**
 
 13. O que pode impedir o aceite do termo de responsabilidade?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | A ausência de alguns dados pessoais no CADSUAS pode impedir o aceite
   do termo de responsabilidade. É muito importante que o CADSUAS esteja
@@ -421,17 +383,17 @@ Palavras-chave: **SAA MANUAL IMPEDIR ACEITE TERMO RESPONSABILIDADE**
 | Caso o sistema não localize *e-mail* no CADSUAS após a concordância
   com o termo de responsabilidade, o sistema poderá apresentar as
   seguintes mensagens:
-|        ▪ *Para prosseguir com o aceite do termo de responsabilidade, é
+| * Para prosseguir com o aceite do termo de responsabilidade, é
   obrigatório que o administrador adjunto possua um endereço de e-mail.
   Por favor, atualize seu cadastro junto ao CADSUAS;
-  *       ▪ *Para prosseguir com o aceite do termo de responsabilidade,
+  * Para prosseguir com o aceite do termo de responsabilidade,
   algumas informações do órgão são de preenchimento obrigatório (nome ou
   razão social, endereço, cidade, UF, CEP e telefone). Por favor,
   atualize as informações junto ao CADSUAS;
-  *       ▪ *Não é possível prosseguir com o aceite do termo de
+  * Não é possível prosseguir com o aceite do termo de
   responsabilidade. Não foi encontrada a localidade do usuário. Por
   favor, atualize seu cadastro junto ao CADSUAS;
-  *       ▪ *Para prosseguir com o aceite do termo de responsabilidade,
+  * Para prosseguir com o aceite do termo de responsabilidade,
   algumas informações dos administradores são de preenchimento
   obrigatório (nome, data de nascimento, CPF, RG, órgão expedidor e
   e-mail). Por favor, atualize as informações junto ao CADSUAS.
@@ -443,8 +405,8 @@ Palavras-chave: **SAA MANUAL IMPEDIR ACEITE TERMO RESPONSABILIDADE**
 Palavras-chave: **SAA MANUAL ADMINISTRADOR TITULAR ADJUNTO VINCULAR
 DELEGAR PERFIL PERFIS**
 
-14. Como o Administrador (Titular/Adjunto) deve proceder para
-    vincular/delegar perfis no SAA?
+14. Como o Administrador (Titular/Adjunto) deve proceder para vincular/delegar perfis no SAA?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Vincular / Delegar Perfil consiste em atribuir a um usuário permissões
   de acessos aos sistemas e/ou delegação de perfil a outros usuários,
@@ -493,11 +455,10 @@ DELEGAR PERFIL PERFIS**
 Palavras-chave: **SAA MANUAL MUNICIPIO CADASTRA ADMINISTRADOR TITULAR
 ADJUNTO USUARIOS USUARIO**
 
-15. Como proceder quando o município cadastra o Administrador (Titular
-    Adjunto) no SAA como usuários/usuário?
+15. Como proceder quando o município cadastra o Administrador (Titular Adjunto) no SAA como usuários/usuário?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| **
-  ATENÇÃO OPERADOR:** ao identificar que o município cadastrou qualquer
+| **ATENÇÃO OPERADOR:** ao identificar que o município cadastrou qualquer
   um dos administradores (Titular/Adjunto) (Órgão Gestor ou Conselho
   Municipal) no SAA, prestar os seguintes esclarecimentos:
 | Sr(a)., de acordo com a PORTARIA SNAS Nº 15, DE 17 DE DEZEMBRO DE
@@ -594,11 +555,10 @@ ADJUNTO USUARIOS USUARIO**
 Palavras-chave: **SAA MANUAL PRESIDENTE CONSELHO INDICADO ADMINISTRADOR
 ADJUNTO GESTAO ORGAO GESTOR**
 
-16. Como proceder quando o Presidente do Conselho é indicado como
-    Administrador Adjunto do Órgão Gestor?
+16. Como proceder quando o Presidente do Conselho é indicado como Administrador Adjunto do Órgão Gestor?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| **
-  ATENÇÃO OPERADOR:** ao identificar que o município indicou o
+| **ATENÇÃO OPERADOR:** ao identificar que o município indicou o
   Presidente do Conselho como Administrador Ajunto do Órgão Gestor,
   encaminhar a resposta abaixo:
 | Sr(a)., foi identificado que o Presidente do Conselho foi indicado

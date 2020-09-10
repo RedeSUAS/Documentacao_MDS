@@ -26,4 +26,3 @@ Muita coisa que iremos fazer sera muito Teste e Erro, logo ainda há o que ser a
 	3.1 - Siga os passos do script e seu documento .rst sera gerado e estara na pasta "_topicos" com o nome de saida que voce mencionou.
 	
 4 - Abra o arquivo e use o preview para ver como a pagina iria ficar no ReadTheDocs, irão ter erros, alguns mais simples e outros mais chatos.
-

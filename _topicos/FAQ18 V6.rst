@@ -159,22 +159,20 @@ atualização que seja necessária deve ser realizada no Cadastro Único.
 8. Não consigo preencher as informações no Prontuário, o que fazer?
 -------------------------------------------------------------------
 
-| Para iniciar o preenchimento de qualquer uma das opções do Prontuário
-  é necessário que tenha sido realizado primeiro o preenchimento da
-  opção “Forma de Acesso”.
-| Caso possua perfil adequado para preenchimento do Prontuário, observe
-  se foi indicada a opção “Forma de Acesso”, informando como a família
-  teve o primeiro contato com a unidade.
+Para iniciar o preenchimento de qualquer uma das opções do Prontuário
+é necessário que tenha sido realizado primeiro o preenchimento da
+opção “Forma de Acesso”.
+Caso possua perfil adequado para preenchimento do Prontuário, observe
+se foi indicada a opção “Forma de Acesso”, informando como a família
+teve o primeiro contato com a unidade.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS CRIANCA FELIZ
 
 9. Por que não estou visualizando a opção “Criança Feliz no SUAS” no Prontuário?
 --------------------------------------------------------------------------------
 
-| **
-  **
-| Esta opção só está disponível para os municípios que aderiram ao Termo
-  de Aceite – Programa Primeira Infância no SUAS.
+Esta opção só está disponível para os municípios que aderiram ao Termo
+de Aceite – Programa Primeira Infância no SUAS.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS REGISTRAR VISITA CRIANCA
 FELIZ
@@ -198,19 +196,19 @@ visitador(a); e clicar em confirmar.
 -----------------------------------------------------------------------
 
 Clique na aba PCF (Programa Criança Feliz) e depois em “\ **Montar
-Equipe**\ ”. O Estado, Município e Unidade aparecerão automaticamente.
+Equipe** \”. O Estado, Município e Unidade aparecerão automaticamente.
 Ao acionar o *combobox* equipe, é possível cadastrar uma nova equipe ou
 editar uma equipe que já tenha sido registrada.
 
-| Na tela seguinte, clique em um dos nomes dos profissionais que
-  aparecem na caixa “\ **Selecionar Supervisores**\ ”, arraste até a
-  caixa “\ **Supervisor**\ ” e solte. Na caixa “\ **Selecionar
-  Visitadores**\ ”, será apresentada uma relação de nomes dos
-  profissionais cadastrados no CadSUAS. Clique no(s) nome(s) do(s)
-  profissionais e arraste até a caixa “\ **Visitador**\ ” e solte.
-  Pronto, está montada a equipe desta unidade.
-| **OBS.:** Só serão listados os profissionais vinculados ao RH no
-  CadSUAS de acordo com seguintes cargos/função:
+Na tela seguinte, clique em um dos nomes dos profissionais que
+aparecem na caixa “\ **Selecionar Supervisores**\ ”, arraste até a
+caixa “\ **Supervisor**\ ” e solte. Na caixa “\ **Selecionar
+Visitadores**\ ”, será apresentada uma relação de nomes dos
+profissionais cadastrados no CadSUAS. Clique no(s) nome(s) do(s)
+profissionais e arraste até a caixa “\ **Visitador**\ ” e solte.
+Pronto, está montada a equipe desta unidade.
+**OBS.:** Só serão listados os profissionais vinculados ao RH no
+CadSUAS de acordo com seguintes cargos/função:
 
 -  **Supervisor:**
 
@@ -241,39 +239,39 @@ superior da tela), clique logo abaixo em “Prontuário SUAS” e por fim em
 12. Não consigo incluir os técnicos que farão parte da equipe do Criança Feliz aqui no Prontuário. Como proceder?
 -----------------------------------------------------------------------------------------------------------------
 
-| Para aparecer na lista da Equipe no Prontuário Eletrônico é preciso
-  que a pessoa esteja cadastrada e vinculada a uma unidade **CRAS** ou
-  ao item “\ **Outras**\ ” na aba “Rede Socioassistencial” do CadSUAS.
-  Lembre-se de colocar a Sigla “PCF”, na aba identificação da opção
-  “Outras”, para que o sistema do Prontuário identifique que é uma
-  equipe do Programa Criança Feliz.
-| Na aba Rede Socioassistencial, opção “\ **CRAS**\ ”, com os seguintes
-  cargos/função:
+Para aparecer na lista da Equipe no Prontuário Eletrônico é preciso
+que a pessoa esteja cadastrada e vinculada a uma unidade **CRAS** ou
+ao item “\ **Outras**\ ” na aba “Rede Socioassistencial” do CadSUAS.
+Lembre-se de colocar a Sigla “PCF”, na aba identificação da opção
+“Outras”, para que o sistema do Prontuário identifique que é uma
+equipe do Programa Criança Feliz.
+Na aba Rede Socioassistencial, opção “\ **CRAS**\ ”, com os seguintes
+cargos/função:
 
 **Supervisor:** Coordenador(a) ou Técnico(a) de Nível Superior
 
-| **Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
-  Nível Superior incompleto), Educador(a) Social ou Técnico(a) de Nível
-  Superior.
-| Na aba Rede Socioassistencial, opção “\ **Outras**\ ”, com o seguintes
-  cargos/função:
+**Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
+Nível Superior incompleto), Educador(a) Social ou Técnico(a) de Nível
+Superior.
+Na aba Rede Socioassistencial, opção “\ **Outras**\ ”, com o seguintes
+cargos/função:
 
 **Supervisor:** Técnico(a) de Nível Superior
 
-| **Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
-  Nível Superior incompleto), Técnico(a) de Nível Superior.
-| **Observação:** ao cadastrar o equipamento na opção “Outras”, na aba
-  **Identificação**, o campo sigla deve ser preenchido como PCF.
+**Visitador:** Técnico(a) de Nível Médio, Estagiário(a) (Escolaridade:
+Nível Superior incompleto), Técnico(a) de Nível Superior.
+**Observação:** ao cadastrar o equipamento na opção “Outras”, na aba
+**Identificação**, o campo sigla deve ser preenchido como PCF.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS MEDIDA SOCIOEDUCATIVA
 
 13. Como faço para preencher a opção da Medida Socioeducativa sem o número do processo?
 ---------------------------------------------------------------------------------------
 
-| O número de processo é campo obrigatório. Sem essa informação não será
-  possível confirmar o registro da Medida Socioeducativa.
-| O Sistema permite salvar a informação somente para adolescentes dentro
-  da faixa etária de 12 a 21 anos.
+O número de processo é campo obrigatório. Sem essa informação não será
+possível confirmar o registro da Medida Socioeducativa.
+O Sistema permite salvar a informação somente para adolescentes dentro
+da faixa etária de 12 a 21 anos.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS FAMILIA NIS
 
@@ -337,8 +335,7 @@ VISITADORES OUTRAS REDE SOCIOASSISTENCIAL CNPJ
 18. No cadastro dos supervisores/visitadores da opção “Outras” – Rede Socioassistencial, qual CNPJ devo colocar?
 ----------------------------------------------------------------------------------------------------------------
 
-**
-**\ Na opção “Outras” – na aba Rede Socioassistencial do CadSUAS, o
+Na opção “Outras” – na aba Rede Socioassistencial do CadSUAS, o
 campo CNPJ deve ser preenchido com o de quem está contratando os
 profissionais.
 

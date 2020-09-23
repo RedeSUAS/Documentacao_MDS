@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Documentacao_FAQ_MDS's documentation!
-=================================================
+Bem-vindo a Documentação do MDS!
+=================================
 
 .. toctree::
    :maxdepth: 1
@@ -14,6 +14,7 @@ Welcome to Documentacao_FAQ_MDS's documentation!
    _topicos/FAQ2
    _topicos/FAQ 12 - Erros Sistemicos
    _topicos/FAQ18 V6
+   _topicos/FAQ 04 - Cadastro Nacional
 
 
 .. toctree::

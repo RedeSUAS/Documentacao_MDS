@@ -355,8 +355,7 @@ CRIANCA FELIZ
 20. Em que lugar do Prontuário Eletrônico devo registrar as gestantes que fazem parte do público do Programa Criança Feliz?
 ---------------------------------------------------------------------------------------------------------------------------
 
-**
-**\ No Prontuário Eletrônico as gestantes devem ser registradas na seção
+No Prontuário Eletrônico as gestantes devem ser registradas na seção
 “Registro de Gestante na Família”, indicando inclusive o mês da
 gestação. Se esta gestante fizer parte do público do Criança Feliz,
 então após a inserção dela na seção já mencionada, deve-se também
@@ -368,8 +367,8 @@ realizar sua inserção na seção Criança Feliz no SUAS.
 21. A seção Criança Feliz no SUAS é apenas para registrar as crianças de 0 a 6 anos?
 ------------------------------------------------------------------------------------
 
-**
-**\ Não; esta seção é também para a inserção tanto das crianças quanto
+**Não**;
+Esta seção é também para a inserção tanto das crianças quanto
 das gestantes que fazem parte do Programa.
 
 **Palavras-chave:** PRONTUARIO ELETRONICO SUAS DADOS RELATORIOS SISTEMA

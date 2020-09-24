@@ -12,9 +12,11 @@ Bem-vindo a Documentação do MDS!
 
    _topicos/FAQ1 - SAA_Institucional 
    _topicos/FAQ2
+   _topicos/FAQ 04 - Cadastro Nacional
+   _topicos/FAQ 05 - Plano de Ação
    _topicos/FAQ 12 - Erros Sistemicos
    _topicos/FAQ18 V6
-   _topicos/FAQ 04 - Cadastro Nacional
+   
 
 
 .. toctree::

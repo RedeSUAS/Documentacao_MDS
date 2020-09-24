@@ -36,27 +36,29 @@ passos que foram feitos até o momento do erro.
 Tendo em vista a necessidade de encaminhamento do *print* de tela,
 podem ser utilizados os seguintes canais da Central de Relacionamento:
 
-- **Formulário Eletrônico (\ e-mail\ )**, disponível no Portal do
+- **Formulário Eletrônico (e-mail)**, disponível no Portal do
   Ministério da Cidadania, em https://www.gov.br/cidadania/pt-br. Ao
   acessar essa página, clicar em “Fale com o Ministério da Cidadania” e,
-  em seguida, clicar na opção “\ *Formulário eletrônico*\ ”;e
+  em seguida, clicar na opção “*Formulário eletrônico*”;e
 - **Chat**, acessível pelo Portal do Ministério da Cidadania, em
   https://www.gov.br/cidadania/pt-br. Ao acessar essa página, clicar em
   “Fale com o Ministério da Cidadania” e, em seguida, clicar na opção
-  “\ *Chat*\ ”.
+  “*Chat*”.
 
 De posse desses dados, a Central de Relacionamento solicitará análise
 por parte do setor responsável.
-**ATENÇÃO OPERADOR\ CHAT:** ao receber os dados encaminhados pelo
+**ATENÇÃO OPERADOR CHAT:** ao receber os dados encaminhados pelo
 demandante, verificar se não se trata de erro já estruturado em algum
 tópico deste assunto. Se realmente não estiver previsto, classificar a
 demanda como informação não encontrada, conforme caminho abaixo, e
-direcioná-la ao 2º Nível.\ **
+direcioná-la ao 2º Nível.**
 03. SNAS - SEC. NACIONAL DE ASSISTÊNCIA SOCIAL > 01. HELP DESK >
-INFORMAÇÃO NÃO ENCONTRADA > 01. DÚVIDAS > ERROS_SISTÊMICOS
-\ IMPORTANTE!** Nesta demanda devem ser anexados todos os arquivos
-encaminhados pelo demandante.\ **
-ATENÇÃO RESOLVEDOR:** Ao receber a demanda de 1º Nível, se esta
+INFORMAÇÃO NÃO ENCONTRADA > 01. DÚVIDAS > ERROS_SISTÊMICOS.
+
+**IMPORTANTE!** Nesta demanda devem ser anexados todos os arquivos
+encaminhados pelo demandante.
+
+**ATENÇÃO RESOLVEDOR:** Ao receber a demanda de 1º Nível, se esta
 estiver com os dados (e os anexos) necessários, encaminhá-la ao 3º
 Nível.
 
@@ -108,7 +110,7 @@ podem ser utilizados os seguintes canais da Central de Relacionamento:
   “**Chat**”. De posse desses dados, a Central de Relacionamento solicitará análise
   por parte do setor responsável.
 
-**ATENÇÃO OPERADOR\ CHAT:** ao receber os dados encaminhados pelo
+**ATENÇÃO OPERADOR CHAT:** ao receber os dados encaminhados pelo
 demandante, verificar se realmente se trata do erro relacionado à
 mensagem “Não foi possível realizar sua operação. Ocorreu um erro
 ao vincular o perfil que define a localidade do usuário. Em caso de
@@ -127,7 +129,7 @@ contato com a REDE SUAS através do e-mail rede.suas@cidadania.gov.br**
 **IMPORTANTE!** Nesta demanda devem ser anexados todos os arquivos
 encaminhados pelo demandante.
 
-**ATENÇÃO RESOLVEDOR\ CHAT:** Ao receber a demanda de 1º Nível, utilizar
+**ATENÇÃO RESOLVEDOR CHAT:** Ao receber a demanda de 1º Nível, utilizar
 a resposta abaixo para concluir a demanda (não há necessidade de
 encaminhamento ao 3º Nível):
 
@@ -160,9 +162,11 @@ temporária:**
   Pedimos desculpas pelos transtornos causados e colocamo-nos à
   disposição para quaisquer esclarecimentos adicionais.
 
-**b)** Se não for temporária, utilizar o tratamento previsto no tópico
-“\ 01. Como proceder quando o sistema apresentar mensagens de erro?\ ”
-deste mesmo assunto.
+**b)** Se não for temporária: 
+
+  Utilizar o tratamento previsto no tópico
+  “\ 01. Como proceder quando o sistema apresentar mensagens de erro?\ ”
+  deste mesmo assunto.
 
 **Palavras-chave: ERROS SISTEMICOS CAMPO ORGAO OBRIGATORIO**
 
@@ -350,16 +354,19 @@ estiver com os dados necessários, encaminhá-la ao 3º Nível.
 situação na qual o problema se encontrar:
 
 **a) O erro já foi solucionado:**
-Esse problema pode ter ocorrido temporariamente ou ainda pelo fato do
-sistema ter ficado aberto por um longo período sendo necessário que o
-município volte a conectar-se ao aplicativo. Orientamos, também, que
-nesse caso o município atualize a tela clicando Ctrl+F5 e repita a
-ação.
+
+  Esse problema pode ter ocorrido temporariamente ou ainda pelo fato do
+  sistema ter ficado aberto por um longo período sendo necessário que o
+  município volte a conectar-se ao aplicativo. Orientamos, também, que
+  nesse caso o município atualize a tela clicando Ctrl+F5 e repita a
+  ação.
+
 **b) O erro ainda não foi solucionado:**
-A mensagem “*Erro inesperado*”, trata-se de um erro de
-sistema. Sendo assim, é necessário encaminhar os dados abaixo para a
-Central de Relacionamento do Ministério da Cidadania, para que seja
-possível analisar a situação:
+
+  A mensagem “*Erro inesperado*”, trata-se de um erro de
+  sistema. Sendo assim, é necessário encaminhar os dados abaixo para a
+  Central de Relacionamento do Ministério da Cidadania, para que seja
+  possível analisar a situação:
 
 - *Print* da tela (cópia) anterior à mensagem de erro;
 - *Login* de acesso;
@@ -376,6 +383,7 @@ Central de Relacionamento:
   Ministério da Cidadania, em https://www.gov.br/cidadania/pt-br. Ao
   acessar essa página, clicar em “Fale com o Ministério da Cidadania” e,
   em seguida, clicar na opção “*Formulário eletrônico*”;
+  
 - **Chat**, acessível pelo Portal do Ministério da Cidadania, em
   https://www.gov.br/cidadania/pt-br. Ao acessar essa página, clicar em
   “Fale com o Ministério da Cidadania” e, em seguida, clicar na opção

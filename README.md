@@ -1,6 +1,3 @@
-Testes
-# Instruções breves para conversão de arquivos .word para .rst
-
 # Documentacao_MDS
 
 Instruções breves para conversão de arquivos .word para .rst
@@ -20,14 +17,14 @@ edição do arquivo .rst
 
 Entre elas estão:
 
-	A) Verificar se titulos estão com o estilo do Word "Titulo 1", "Titulo 2" etc etc, não importa o tamanho que ele sera
+A) Verificar se titulos estão com o estilo do Word "Titulo 1", "Titulo 2" etc etc, não importa o tamanho que ele sera
 ou sua fonte, mas sim se ele esta como essa categoria.
 (Vi que em varios documentos elas estão como "topicos" e não Titulos, verifiquem isto)
 
-	B) Excluir o Sumario que há no inicio do Documento, há uma função a ser escrita nos arquivos .rst que já cria um sumario
+B) Excluir o Sumario que há no inicio do Documento, há uma função a ser escrita nos arquivos .rst que já cria um sumario
 automatico com todos os topicos(Por isto a importancia do "Titulo 1", "Titulo 2"...)
 
-**MAIS INFORMAÇÕES VIRAO AQUI**
+MAIS INFORMAÇÕES VIRAO AQUI
 
 3 - Após ter editado o arquivo Word iremos converter-lo atraves do script "ConversorRST". Para isto, salve o documento editado ou renomeie-o para algo mais simples e pratico.
 

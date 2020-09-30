@@ -11,8 +11,8 @@ SOCIAL**
 
 **Palavra-chave:** CADASTRO NACIONAL ENTIDADES ASSISTENCIA SOCIAL CNEAS
 
-Tópicos
-^^^^^^^
+Tópicos:
+^^^^^^^^^
 
 .. contents::
    :local:
@@ -342,17 +342,19 @@ A Seção III trata da relação entre o Gestor e a Entidade, são
 informações relacionadas à transferência de recursos, parcerias e
 gratuidade das ofertas e é composta por três questões gerais e mais
 quatro relacionadas à gratuidade.
-Para preencher a Seção III o órgão gestor deverá realizar os seguintes
-passos:
-Clicar em Menu, depois em Cadastro Nacional. Pesquisar Entidades e
-Ofertas, inserir o CNPJ da OSC, marcar o filtro, clicar em “Pesquisar”.
-Abrirá uma tela, clicar no botão visualizar (lupa), na nova tela clicar
-novamente na lupa. Abrirá uma tela com as três seções do cadastro,
-clicar no botão editar (caderninho) da Seção III, inserir as informações
-solicitadas e salvar.
-Após salvar as informações inseridas na Seção III o órgão gestor deve
-clicar em “Gerar Atestado de Gratuidade” caso as ofertas sejam
-totalmente gratuitas aos usuários.
+
+**Para preencher a Seção III o órgão gestor deverá realizar os seguintes passos:**
+
+-  Clicar em Menu, depois em Cadastro Nacional. Pesquisar Entidades e
+   Ofertas, inserir o CNPJ da OSC, marcar o filtro, clicar em “Pesquisar”.
+   Abrirá uma tela, clicar no botão visualizar (lupa), na nova tela clicar
+   novamente na lupa. Abrirá uma tela com as três seções do cadastro,
+   clicar no botão editar (caderninho) da Seção III, inserir as informações
+   solicitadas e salvar.
+
+-  Após salvar as informações inseridas na Seção III o órgão gestor deve
+   clicar em “Gerar Atestado de Gratuidade” caso as ofertas sejam
+   totalmente gratuitas aos usuários.
 
 
 **Palavra-chave:** ORGAOS GESTORES MUNICIPAIS DF FINALIZAR CADASTRO

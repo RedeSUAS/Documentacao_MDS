@@ -7,13 +7,14 @@ Programa/Projeto: **01. HELP DESK**
 
 Assunto: **12. ERROS_SISTÊMICOS**
 
-Palavras-chave: **ERROS SISTEMICOS MENSAGEM ERRO**
-
-Sumário
-^^^^^^^
+Tópicos:
+^^^^^^^^^^^^^
 .. contents:: 
   :local:
   :depth: 1
+
+
+Palavras-chave: **ERROS SISTEMICOS MENSAGEM ERRO**
 
 01. Como proceder quando o sistema apresentar mensagens de erro?
 ----------------------------------------------------------------
@@ -47,7 +48,8 @@ podem ser utilizados os seguintes canais da Central de Relacionamento:
 
 De posse desses dados, a Central de Relacionamento solicitará análise
 por parte do setor responsável.
-**ATENÇÃO OPERADOR CHAT:** ao receber os dados encaminhados pelo
+
+**ATENÇÃO OPERADOR CHAT:** Ao receber os dados encaminhados pelo
 demandante, verificar se não se trata de erro já estruturado em algum
 tópico deste assunto. Se realmente não estiver previsto, classificar a
 demanda como informação não encontrada, conforme caminho abaixo, e
@@ -383,7 +385,7 @@ Central de Relacionamento:
   Ministério da Cidadania, em https://www.gov.br/cidadania/pt-br. Ao
   acessar essa página, clicar em “Fale com o Ministério da Cidadania” e,
   em seguida, clicar na opção “*Formulário eletrônico*”;
-  
+
 - **Chat**, acessível pelo Portal do Ministério da Cidadania, em
   https://www.gov.br/cidadania/pt-br. Ao acessar essa página, clicar em
   “Fale com o Ministério da Cidadania” e, em seguida, clicar na opção

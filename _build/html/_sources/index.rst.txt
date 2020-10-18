@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Bem-vindo a Documentação do MDS!
-=================================
+==================================
 
 .. toctree::
    :maxdepth: 1
@@ -14,6 +14,7 @@ Bem-vindo a Documentação do MDS!
    _topicos/FAQ2
    _topicos/FAQ 04 - Cadastro Nacional
    _topicos/FAQ 05 - Plano de Ação
+   _topicos/FAQ 06 - Sisc institucional
    _topicos/FAQ 12 - Erros Sistemicos
    _topicos/FAQ18 V6
    

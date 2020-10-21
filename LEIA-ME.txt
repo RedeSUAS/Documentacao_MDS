@@ -4,7 +4,24 @@ Irei incluir o link para a documentação da linguagem RST, é uma linguagem bem
 Observem os arquivos ja feitos e tentem tirar algo deles que queiram replicar.
 Muita coisa que iremos fazer sera muito Teste e Erro, logo ainda há o que ser acrescentado neste documento.
 
-1 - Installe o Pandoc, o instalador esta na pasta.
+A parte 1 consiste em preparar seu ambiente para conseguir editar e implementar as alterações e documentos no FAQ
+
+1 - Instale o Python (https://www.python.org/)
+IMPORTANTE: Tenha certeza que durante a instalação voce marque a opção de adicionar o Python as Variaveis de Sistema. De preferencia para instalar-lo na raiz do sistema(C:\)
+
+1.1 - Instale o Sphinx(Necessario ter o Python)
+
+	1.1.1 - Abra o cmd e digite "pip install sphinx"
+
+	1.1.2 - Instale o auto-build do Sphinx, "pip install sphinx sphinx-autobuild"
+
+	1.1.2 - Aproveite e instale o tema do ReadTheDocs(necessario) "pip install sphinx_rtd_theme"
+
+1.2 - Instale a extensão RST(reStructuredText) no Visual Code para conseguir visualizar e editar os textos da documentação
+
+1.3 - Instale a extensão Python(NECESSARIO).
+
+1.4 - Installe o Pandoc, o instalador esta na pasta.
 
 2 - Coloque o arquivo Word desejado na pasta "_docx"
 	

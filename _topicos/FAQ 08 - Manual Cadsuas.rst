@@ -10,6 +10,9 @@ FAQ 08 - CADSUAS Manual
 
 Tópicos:
 ^^^^^^^^
+.. contents::
+  :local:
+  :depth: 1
 
 **Palavras-chave:** CADSUAS MANUAL ACESSAR CONSULTA PUBLICA AREA
 RESTRITA

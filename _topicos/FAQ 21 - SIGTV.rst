@@ -1,0 +1,83 @@
+==============
+FAQ 21 - SIGTV
+==============
+
+**SECRETARIA/SETOR: SNAS - SEC. NACIONAL DE ASSISTÊNCIA SOCIAL**
+
+**PROGRAMA/PROJETO: 01. HELP DESK**
+
+**ASSUNTO: 21. SIGTV**
+
+**Tópicos:**
+^^^^^^^^^^^^
+
+.. contents::
+  :local:
+  :depth: 1
+
+**Palavras-chave:** O QUE E O SIGTV
+
+1. O que é o SIGTV?
+-------------------
+
+O Sistema de Gestão de Transferências Voluntárias - SIGTV é um
+sistema eletrônico que permite realizar a indicação das unidades
+públicas ou privadas que serão beneficiadas com o recursos das emendas
+parlamentares (classificadas nas naturezas de despesa de custeio e
+investimento).
+
+**IMPORTANTE:** Orientamos consultar a Portaria nº 130 de 27 de março
+de 2017 que dispõe sobre a transferência voluntária de recursos
+oriundos de emenda parlamentar ou de programação orçamentária própria,
+na modalidade fundo a fundo, no âmbito do Sistema Único de Assistência
+Social - SUAS.
+
+**Palavras-chave:** COMO ACESSAR O SIGTV
+
+2. Como acessar o SIGTV?
+-------------------------
+
+O acesso ao SIGTV é feito pelo endereço . Preencha o campo
+“Usuário”, com o *login,* e “Senha” e clique no botão “Acessar”.
+O sistema está liberado para os Secretários(as) de Assistência Social
+Estaduais, Municipais e do Distrito Federal, cadastrados como
+Administrador Titular no SAA.
+
+Vale lembrar que deve-se acessar com o mesmo *login* e senha que já
+utilizado nos demais sistemas da Rede SUAS.
+
+**Palavras-chave:** ESQUECI MINHA SENHA DO SIGTV
+
+3. Esqueci minha senha do SIGTV, o que eu faço?
+------------------------------------------------
+
+Orientamos a realizar o procedimento de recuperação de senha no
+*link* “esqueci minha senha” disponibilizado no próprio sistema
+(http://sigtv.mds.gov.br/) para que uma nova senha seja enviada para o
+*e-mail* cadastrado.
+
+Cabe destacar que se não localizar o *e-mail* com a nova senha em sua
+Caixa de entrada, verifique então na Caixa de *SPAM*/Lixo eletrônico.
+
+**Palavras-chave:** MANUAL ORIENTACAO PREENCHIMENTO SIGTV
+
+4. Há algum manual para orientar o preenchimento do SIGTV, onde consigo acessá-lo?
+-----------------------------------------------------------------------------------
+
+O Manual de orientação está em fase de validação da área responsável
+e quando estiver concluído, será disponibilizado no Blog do FNAS.
+
+**Palavras-chave:** COMO OBTER ACESSO AO SIGTV
+
+5. Como obter acesso ao SIGTV?
+-------------------------------
+
+O acesso ao SIGTV foi liberado aos Secretários de Assistência
+Social Estaduais, Municipais e do Distrito Federal, os quais são
+Administradores Titular do Órgão Gestor conforme estabelecido na
+Política de Acesso aos sistemas (PORTARIA SNAS Nº 15, DE 17 DE
+DEZEMBRO DE 2010).
+
+O acesso ao SIGTV é feito pelo endereço http://sigtv.mds.gov.br/ com o
+mesmo login e senha que já é utilizado nos demais sistemas da Rede
+SUAS.
